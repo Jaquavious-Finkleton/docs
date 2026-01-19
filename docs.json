@@ -31,10 +31,9 @@
         }
       ]
     },
-    "groups": [
+    "tabs": [
       {
-        "group": "Home",
-        "pages": []
+        "tab": "Group"
       }
     ]
   },
