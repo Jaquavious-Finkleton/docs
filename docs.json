@@ -31,7 +31,12 @@
         }
       ]
     },
-    "groups": []
+    "groups": [
+      {
+        "group": "Untitled Group",
+        "pages": []
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
