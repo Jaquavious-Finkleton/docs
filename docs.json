@@ -34,7 +34,9 @@
     "groups": [
       {
         "group": "Untitled Group",
-        "pages": []
+        "pages": [
+          "untitled-group/untitled-page"
+        ]
       }
     ]
   },
