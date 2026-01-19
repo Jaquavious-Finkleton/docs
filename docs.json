@@ -12,15 +12,6 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
-          "color": {
-            "light": "#108080",
-            "dark": "#108080"
-          },
-          "href": "https://navae.mintlify.com/docs"
-        },
-        {
           "anchor": "Website",
           "icon": "arrow-up-right",
           "color": {
@@ -33,7 +24,20 @@
     },
     "tabs": [
       {
-        "tab": "Group"
+        "tab": "Group",
+        "global": {
+          "anchors": [
+            {
+              "anchor": "Documentation",
+              "icon": "book-open-cover",
+              "color": {
+                "light": "#108080",
+                "dark": "#108080"
+              },
+              "href": "https://navae.mintlify.com/docs"
+            }
+          ]
+        }
       }
     ]
   },
