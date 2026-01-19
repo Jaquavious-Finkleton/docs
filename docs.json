@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Navae",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -40,10 +40,7 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/app-icon.svg",
   "navbar": {
     "links": [
       {
@@ -75,5 +72,11 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Comfortaa"
+  },
+  "appearance": {
+    "default": "system"
   }
 }
